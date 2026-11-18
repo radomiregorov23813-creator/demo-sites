@@ -58,6 +58,20 @@ input:focus,select:focus{border-color:var(--ink);outline:none}
 .maps{display:flex;gap:10px;flex-wrap:wrap}
 footer{padding:28px 0 40px;font-size:13.5px;opacity:.7}
 .sticky{display:none}
+.bot .w{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,380px);gap:clamp(28px,5vw,72px);align-items:center}
+.bot ul.pl{margin-top:24px;display:grid;gap:12px}
+.bot ul.pl li{padding:14px 0 0;border-top:1.5px solid var(--ink);font-weight:600}
+.bot ul.pl span{display:block;font-weight:400;opacity:.7;font-size:15px}
+.phone{background:#E6EBEF;border-radius:28px;border:8px solid var(--ink);overflow:hidden;box-shadow:0 20px 50px rgba(0,0,0,.18)}
+.ph-top{display:flex;align-items:center;gap:10px;background:#fff;padding:12px 14px;border-bottom:1px solid #D7DEE4;color:#16202A}
+.ph-av{width:36px;height:36px;border-radius:50%;background:var(--ac);color:#fff;display:grid;place-items:center;font:700 15px var(--t);flex:none}
+.ph-top b{display:block;font-size:15px;line-height:1.2}.ph-top small{font-size:12.5px;color:#6B7A86}
+.chat{height:400px;overflow-y:auto;padding:14px 12px;display:flex;flex-direction:column;gap:8px;font-size:15px;line-height:1.4}
+.msg{max-width:84%;padding:8px 12px;border-radius:14px;border-bottom-left-radius:4px;background:#fff;color:#16202A;align-self:flex-start}
+.msg.me{align-self:flex-end;background:#D9F2C9;border-radius:14px;border-bottom-right-radius:4px}
+.kb{display:grid;gap:6px;align-self:stretch}
+.kb button{min-height:42px;border:0;border-radius:10px;background:rgba(255,255,255,.92);color:var(--ac);font:600 14.5px var(--t);cursor:pointer;touch-action:manipulation}
+@media(max-width:860px){.bot .w{grid-template-columns:1fr}.phone{max-width:380px}}
 @media(max-width:860px){.hero .w,.book .w{grid-template-columns:1fr}.svc{grid-template-columns:1fr 1fr}.svc li:nth-child(n){padding-left:0;border-left:0}.svc li:nth-child(2n){padding-left:16px;border-left:1px solid var(--soft)}.perks{grid-template-columns:1fr}.find{grid-template-columns:1fr}}
 @media(max-width:560px){body{font-size:16px;padding-bottom:84px}header .ph{display:none}.svc{grid-template-columns:1fr}.svc li:nth-child(n){padding-left:0;border-left:0}.acts .btn{width:100%}
 .sticky{display:flex;position:fixed;left:12px;right:12px;bottom:calc(12px + env(safe-area-inset-bottom));z-index:9;box-shadow:0 8px 24px rgba(0,0,0,.25)}}
@@ -97,6 +111,24 @@ footer{padding:28px 0 40px;font-size:13.5px;opacity:.7}
   <ul class="perks"><li>Запись онлайн в любое время</li><li>Цены на все услуги</li><li>Адрес и часы работы на одном экране</li></ul>
 </div></section>
 
+<section class="s bot" id="bot"><div class="w">
+  <div>
+    <h2>Telegram-бот для записи</h2>
+    <p class="sub">Вместо сайта или вместе с ним. Клиент пишет боту в Telegram, а бот сам ведёт запись, днём и ночью. Попробуйте — так это будет выглядеть.</p>
+    <ul class="pl">
+      <li>Работает круглосуточно<span>Принимает заявки, даже когда вы заняты или закрыты</span></li>
+      <li>Сам напоминает клиентам<span>Меньше неявок и забытых визитов</span></li>
+      <li>Заявки приходят вам в Telegram<span>С именем, услугой и временем — ничего не теряется</span></li>
+    </ul>
+  </div>
+  <div>
+    <div class="phone" aria-label="Пример Telegram-бота">
+      <div class="ph-top"><span class="ph-av">Д</span><div><b>Дом Каре</b><small>бот</small></div></div>
+      <div class="chat" id="chat" aria-live="polite"></div>
+    </div>
+  </div>
+</div></section>
+
 <section class="s book" id="zapis"><div class="w">
   <div>
     <h2>Записаться</h2>
@@ -120,6 +152,11 @@ footer{padding:28px 0 40px;font-size:13.5px;opacity:.7}
 <footer><div class="w">Дом Каре, Якутск. Демо-сайт подготовил Радомир.</div></footer>
 <a class="btn sticky" href="#zapis">Записаться</a>
 <script>
+(function(){var B={"name":"Дом Каре","services":["Мужская стрижка","Женская стрижка","Детская стрижка","Окрашивание"],"ask":"Выберите время:","times":["Сегодня 19:00","Завтра 10:30","Завтра 17:00"],"done":"Готово: {s}, {t}. Если планы изменятся — перенесите запись здесь же."};if(!B)return;var c=document.getElementById('chat'),sv;
+function say(t,me){var d=document.createElement('div');d.className='msg'+(me?' me':'');d.textContent=t;c.appendChild(d);c.scrollTop=c.scrollHeight}
+function kb(opts,fn){var k=document.createElement('div');k.className='kb';opts.forEach(function(o){var b=document.createElement('button');b.type='button';b.textContent=o;b.onclick=function(){k.remove();say(o,true);setTimeout(function(){fn(o)},450)};k.appendChild(b)});c.appendChild(k);c.scrollTop=c.scrollHeight}
+function start(){c.innerHTML='';say('Здравствуйте! Это бот '+B.name+'. Что вас интересует?');kb(B.services,function(o){sv=o;say(B.ask);kb(B.times,function(t){say(B.done.replace('{s}',sv).replace('{t}',t.toLowerCase()));kb(['Начать заново'],start)})})}
+start()})();
 document.getElementById('f').addEventListener('submit',function(e){e.preventDefault();var d=new FormData(this);
 var m='Здравствуйте! Меня зовут '+d.get('n')+'. Хочу: '+d.get('s')+(d.get('t')?'. Удобно: '+d.get('t'):'')+'.';
 location.href='https://wa.me/79148236633?text='+encodeURIComponent(m);});
