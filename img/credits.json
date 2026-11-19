@@ -1,0 +1,917 @@
+{
+ "nails/1.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/6036048/photo-image-public-domain-hand-person",
+  "license": "CC0 / Public Domain"
+ },
+ "nails/2.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5922590/free-manicure-image-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "nails/3.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5972117/close-female-hand-with-manicured-nails",
+  "license": "CC0 / Public Domain"
+ },
+ "nails/4.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5920430/photo-image-background-design-public-domain",
+  "license": "CC0 / Public Domain"
+ },
+ "nails/5.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5926347/photo-image-public-domain-hand-pink",
+  "license": "CC0 / Public Domain"
+ },
+ "nails/6.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/people-hands-5M4DNCN8ZW",
+  "license": "CC0 / Public Domain"
+ },
+ "nails/7.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/3299322/free-photo-image-nail-polish-manicure",
+  "license": "CC0 / Public Domain"
+ },
+ "nails/8.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/hands-chest-6NKXF0MA7N",
+  "license": "CC0 / Public Domain"
+ },
+ "nails/9.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5960303/free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "nails/10.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5940176/free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "brows/1.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5921506/free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "brows/2.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/people-girl-VCRXKU9GLE",
+  "license": "CC0 / Public Domain"
+ },
+ "brows/3.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/people-woman-5SLCOVL7HX",
+  "license": "CC0 / Public Domain"
+ },
+ "brows/4.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/woman-makeup-AOLBB3P8AH",
+  "license": "CC0 / Public Domain"
+ },
+ "makeup/1.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/makeup-artist-0VSOU0YJF6",
+  "license": "CC0 / Public Domain"
+ },
+ "makeup/2.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/6035373/photo-image-public-domain-person-brushes",
+  "license": "CC0 / Public Domain"
+ },
+ "makeup/3.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5906913/photo-image-public-domain-makeup-free",
+  "license": "CC0 / Public Domain"
+ },
+ "makeup/4.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/makeup-brush-IJSBS0EFPO",
+  "license": "CC0 / Public Domain"
+ },
+ "makeup/5.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/makeup-brush-KOGR7JW66X",
+  "license": "CC0 / Public Domain"
+ },
+ "makeup/6.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/makeup-brush-DLWMP0HB4Y",
+  "license": "CC0 / Public Domain"
+ },
+ "makeup/7.jpg": {
+  "source": "wordpress",
+  "page": "https://wordpress.org/photos/photo/3865bfd4dd/",
+  "license": "CC0 / Public Domain"
+ },
+ "makeup/8.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/brush-makeup-KRF1GA5BP6",
+  "license": "CC0 / Public Domain"
+ },
+ "makeup/9.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/brush-makeup-W55QEDBEXB",
+  "license": "CC0 / Public Domain"
+ },
+ "makeup/10.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/woman-makeup-2XXA0XX9G0",
+  "license": "CC0 / Public Domain"
+ },
+ "makeup/11.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/woman-hair-ILP6CFYHQI",
+  "license": "CC0 / Public Domain"
+ },
+ "makeup/12.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/woman-model-TJHZP9PY4F",
+  "license": "CC0 / Public Domain"
+ },
+ "cosmetology/1.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/beauty-skincare-LRSAT4NCLS",
+  "license": "CC0 / Public Domain"
+ },
+ "cosmetology/2.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/woman-skin-HIZNJOUVSY",
+  "license": "CC0 / Public Domain"
+ },
+ "cosmetology/3.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/woman-skin-3AECYIAEDE",
+  "license": "CC0 / Public Domain"
+ },
+ "cosmetology/4.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/woman-skin-1KDQSTZVIX",
+  "license": "CC0 / Public Domain"
+ },
+ "cosmetology/5.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/woman-skin-ZD257KAS8U",
+  "license": "CC0 / Public Domain"
+ },
+ "cosmetology/6.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/beauty-skincare-PBIACLTCLJ",
+  "license": "CC0 / Public Domain"
+ },
+ "cosmetology/7.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/smiling-woman-3WMJWQPS9L",
+  "license": "CC0 / Public Domain"
+ },
+ "cosmetology/8.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/woman-skin-QLAKLZ0LML",
+  "license": "CC0 / Public Domain"
+ },
+ "massage/1.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/woman-massage-VH22RVC5UT",
+  "license": "CC0 / Public Domain"
+ },
+ "massage/2.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/woman-massage-U2PRCV7BEQ",
+  "license": "CC0 / Public Domain"
+ },
+ "massage/3.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/woman-massage-I6JSEMNOBS",
+  "license": "CC0 / Public Domain"
+ },
+ "massage/4.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5913670/image-public-domain-people-free",
+  "license": "CC0 / Public Domain"
+ },
+ "massage/5.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5922511/photo-image-public-domain-people-free",
+  "license": "CC0 / Public Domain"
+ },
+ "massage/6.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5924895/photo-image-public-domain-people-free",
+  "license": "CC0 / Public Domain"
+ },
+ "massage/7.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5920158/photo-image-background-public-domain-woman",
+  "license": "CC0 / Public Domain"
+ },
+ "massage/8.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/spa-wellness-PL9R5H2KKH",
+  "license": "CC0 / Public Domain"
+ },
+ "massage/9.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5958720/free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "massage/10.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5962683/free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "massage/11.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/spa-white-811926DC8B",
+  "license": "CC0 / Public Domain"
+ },
+ "hair/1.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5919224/hair-salon-free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "hair/2.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5907502/image-public-domain-woman-beauty",
+  "license": "CC0 / Public Domain"
+ },
+ "hair/3.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5803524/photo-image-public-domain-cc0",
+  "license": "CC0 / Public Domain"
+ },
+ "hair/4.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5924894/photo-image-public-domain-person-woman",
+  "license": "CC0 / Public Domain"
+ },
+ "hair/5.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5944492/free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "hair/6.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5923938/photo-image-public-domain-black-person",
+  "license": "CC0 / Public Domain"
+ },
+ "hair/7.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5960224/free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "hair/8.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/hairdresser-cut-S7UEWWIRTD",
+  "license": "CC0 / Public Domain"
+ },
+ "hair/9.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5924738/photo-image-public-domain-wedding-beauty",
+  "license": "CC0 / Public Domain"
+ },
+ "hair/10.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5922241/photo-image-public-domain-hand-wedding",
+  "license": "CC0 / Public Domain"
+ },
+ "hair/11.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/hair-curls-R6CKAMVOMZ",
+  "license": "CC0 / Public Domain"
+ },
+ "hair/12.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5944692/free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "hair/13.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5943730/free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "hair/14.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/woman-girl-4BG0M37XLV",
+  "license": "CC0 / Public Domain"
+ },
+ "barber/1.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/barber-razor-06HGN8LMUX",
+  "license": "CC0 / Public Domain"
+ },
+ "barber/2.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5926092/photo-image-public-domain-brush-free",
+  "license": "CC0 / Public Domain"
+ },
+ "barber/3.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/8232369/barbers-sign-ca-1938-wynna-wright",
+  "license": "CC0 / Public Domain"
+ },
+ "barber/4.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5939531/old-barber-shop",
+  "license": "CC0 / Public Domain"
+ },
+ "barber/5.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/9658306/image-people-public-domain-kids",
+  "license": "CC0 / Public Domain"
+ },
+ "barber/6.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/9658567/image-people-public-domain-kid",
+  "license": "CC0 / Public Domain"
+ },
+ "barber/7.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/barbershop-chair-7M505B7MYV",
+  "license": "CC0 / Public Domain"
+ },
+ "barber/8.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/barbershop-brush-GZP9ZEQPFL",
+  "license": "CC0 / Public Domain"
+ },
+ "barber/9.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/barbershop-scissors-R9YRHH2JQY",
+  "license": "CC0 / Public Domain"
+ },
+ "barber/10.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/3285700/free-photo-image-barber-barbershop-wall-building-background",
+  "license": "CC0 / Public Domain"
+ },
+ "barber/11.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5925744/photo-image-public-domain-black-vintage",
+  "license": "CC0 / Public Domain"
+ },
+ "barber/12.jpg": {
+  "source": "wordpress",
+  "page": "https://wordpress.org/photos/photo/27966437d7/",
+  "license": "CC0 / Public Domain"
+ },
+ "barber/13.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/9677471/image-face-person-public-domain",
+  "license": "CC0 / Public Domain"
+ },
+ "auto/1.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5922437/photo-image-public-domain-ocean-technology",
+  "license": "CC0 / Public Domain"
+ },
+ "auto/2.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/9676803/image-person-fire-public-domain",
+  "license": "CC0 / Public Domain"
+ },
+ "auto/3.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5908380/image-background-public-domain-free",
+  "license": "CC0 / Public Domain"
+ },
+ "auto/4.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/9659062/image-person-fire-public-domain",
+  "license": "CC0 / Public Domain"
+ },
+ "auto/5.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/9676801/image-face-person-fire",
+  "license": "CC0 / Public Domain"
+ },
+ "auto/6.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/9659059/image-person-fire-public-domain",
+  "license": "CC0 / Public Domain"
+ },
+ "auto/7.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/9658579/image-fire-public-domain-house",
+  "license": "CC0 / Public Domain"
+ },
+ "auto/8.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/9658807/image-person-fire-public-domain",
+  "license": "CC0 / Public Domain"
+ },
+ "auto/9.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/9659063/image-person-fire-public-domain",
+  "license": "CC0 / Public Domain"
+ },
+ "auto/10.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5906009/photo-image-public-domain-free-cc0",
+  "license": "CC0 / Public Domain"
+ },
+ "auto/11.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/8769875/photo-image-vintage-person-cleaning",
+  "license": "CC0 / Public Domain"
+ },
+ "auto/12.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/9658224/image-person-public-domain-2022",
+  "license": "CC0 / Public Domain"
+ },
+ "auto/13.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5947770/free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "auto/14.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/560250/vintage-car-engine",
+  "license": "CC0 / Public Domain"
+ },
+ "auto/15.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5911330/free-car-engine-close-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "auto/16.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/6038859/car-engine-free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "tires/1.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/3305691/free-photo-image-car-alloy-wheel-automobile",
+  "license": "CC0 / Public Domain"
+ },
+ "tires/2.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/6043218/car-wheel-tracks-free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "tires/3.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5927404/photo-image-light-public-domain-logo",
+  "license": "CC0 / Public Domain"
+ },
+ "tires/4.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/6040042/car-wheel-free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "tires/5.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5924586/photo-image-public-domain-free-man",
+  "license": "CC0 / Public Domain"
+ },
+ "tires/6.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5901638/photo-image-texture-public-domain-free",
+  "license": "CC0 / Public Domain"
+ },
+ "tires/7.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/6035214/car-tyre-free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "tires/8.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/6034960/car-tyre-free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "carwash/1.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5917984/image-light-public-domain-logo",
+  "license": "CC0 / Public Domain"
+ },
+ "carwash/2.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5907777/photo-image-public-domain-logo-free",
+  "license": "CC0 / Public Domain"
+ },
+ "carwash/3.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5924423/photo-image-light-public-domain-logo",
+  "license": "CC0 / Public Domain"
+ },
+ "carwash/4.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5969926/car-wash",
+  "license": "CC0 / Public Domain"
+ },
+ "carwash/5.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5927075/photo-image-light-public-domain-logo",
+  "license": "CC0 / Public Domain"
+ },
+ "carwash/6.jpg": {
+  "source": "wordpress",
+  "page": "https://wordpress.org/photos/photo/9756524507/",
+  "license": "CC0 / Public Domain"
+ },
+ "carwash/7.jpg": {
+  "source": "wordpress",
+  "page": "https://wordpress.org/photos/photo/530652450b/",
+  "license": "CC0 / Public Domain"
+ },
+ "carwash/8.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5903684/photo-image-public-domain-hands-red",
+  "license": "CC0 / Public Domain"
+ },
+ "carwash/9.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/6112878/amg-car-location-unknown-date-unknown",
+  "license": "CC0 / Public Domain"
+ },
+ "carwash/10.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/6053460/free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "carwash/11.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/6040112/car-headlight-free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "carwash/12.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/503225/free-photo-image-car-clean-shiny-sports",
+  "license": "CC0 / Public Domain"
+ },
+ "dental/1.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/chair-dentist-3J10QN5PTS",
+  "license": "CC0 / Public Domain"
+ },
+ "dental/2.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/chair-dentist-N79O15BH30",
+  "license": "CC0 / Public Domain"
+ },
+ "dental/3.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/chair-dentist-E4SV0WQ539",
+  "license": "CC0 / Public Domain"
+ },
+ "dental/4.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/dentist-orthodontist-YXEEJ34DKF",
+  "license": "CC0 / Public Domain"
+ },
+ "dental/5.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/dentist-orthodontist-6HV52GTPO3",
+  "license": "CC0 / Public Domain"
+ },
+ "dental/6.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/dentist-orthodontist-0XAP6ZHZ9H",
+  "license": "CC0 / Public Domain"
+ },
+ "dental/7.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5927111/photo-image-public-domain-medicine-beauty",
+  "license": "CC0 / Public Domain"
+ },
+ "dental/8.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/3282520/free-photo-image-dentist-dental-dentistry",
+  "license": "CC0 / Public Domain"
+ },
+ "dental/9.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5925133/free-dentist-lamp-image-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "dental/10.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/6020787/dental-clinic-free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "dental/11.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/3393822/free-photo-image-dentist-career-cc0",
+  "license": "CC0 / Public Domain"
+ },
+ "dental/12.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/3393815/free-photo-image-california-career-cc0",
+  "license": "CC0 / Public Domain"
+ },
+ "flowers/1.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/flowers-bouquet-SHXKTYF3C9",
+  "license": "CC0 / Public Domain"
+ },
+ "flowers/2.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/flowers-bouquet-CFLPQPBXN8",
+  "license": "CC0 / Public Domain"
+ },
+ "flowers/3.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/flower-bouquet-YLFU9GDFC5",
+  "license": "CC0 / Public Domain"
+ },
+ "flowers/4.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/flowers-bouquet-CNEX3ZDN3G",
+  "license": "CC0 / Public Domain"
+ },
+ "flowers/5.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/flower-bouquet-3RI84R6CYH",
+  "license": "CC0 / Public Domain"
+ },
+ "flowers/6.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/flower-bouquet-01SN8V4M9O",
+  "license": "CC0 / Public Domain"
+ },
+ "flowers/7.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/flowers-bouquet-IUL90YDYQL",
+  "license": "CC0 / Public Domain"
+ },
+ "flowers/8.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/flower-bouquet-ZD7VQOTJOA",
+  "license": "CC0 / Public Domain"
+ },
+ "flowers/9.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/flower-bouquet-V23YYSC4MX",
+  "license": "CC0 / Public Domain"
+ },
+ "flowers/10.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5915543/image-flower-public-domain-leaf",
+  "license": "CC0 / Public Domain"
+ },
+ "flowers/11.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5917134/image-flower-public-domain-nature",
+  "license": "CC0 / Public Domain"
+ },
+ "flowers/12.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5910862/image-flower-public-domain-wedding",
+  "license": "CC0 / Public Domain"
+ },
+ "flowers/13.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/3302163/free-photo-image-aster-blossom-cc0",
+  "license": "CC0 / Public Domain"
+ },
+ "flowers/14.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/woman-holding-RFP4F66IW9",
+  "license": "CC0 / Public Domain"
+ },
+ "flowers/15.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/rustic-floral-LT8YJZOML6",
+  "license": "CC0 / Public Domain"
+ },
+ "flowers/16.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5926174/photo-image-public-domain-hand-technology",
+  "license": "CC0 / Public Domain"
+ },
+ "flowers/17.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/3284488/free-photo-image-flower-shop-bouquet",
+  "license": "CC0 / Public Domain"
+ },
+ "flowers/18.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5974691/photo-image-flower-light-leaf",
+  "license": "CC0 / Public Domain"
+ },
+ "gym/1.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/girl-gym-00RNNUWGLM",
+  "license": "CC0 / Public Domain"
+ },
+ "gym/2.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/gym-interior-LNCLN1NE6K",
+  "license": "CC0 / Public Domain"
+ },
+ "gym/3.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/ring-gym-GAB4IVSO2F",
+  "license": "CC0 / Public Domain"
+ },
+ "gym/4.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5926463/photo-image-light-public-domain-black",
+  "license": "CC0 / Public Domain"
+ },
+ "gym/5.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5927295/photo-image-public-domain-yoga-free",
+  "license": "CC0 / Public Domain"
+ },
+ "gym/6.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/6038283/photo-image-public-domain-free-sport",
+  "license": "CC0 / Public Domain"
+ },
+ "gym/7.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/6037808/photo-image-public-domain-free-sport",
+  "license": "CC0 / Public Domain"
+ },
+ "gym/8.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5905602/photo-image-public-domain-free-workout",
+  "license": "CC0 / Public Domain"
+ },
+ "gym/9.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5905209/free-gym-equipments-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "gym/10.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5926278/photo-image-public-domain-free-plates",
+  "license": "CC0 / Public Domain"
+ },
+ "gym/11.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/girl-woman-EHS7NJY7KT",
+  "license": "CC0 / Public Domain"
+ },
+ "gym/12.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/girl-woman-MRTPJW5I7U",
+  "license": "CC0 / Public Domain"
+ },
+ "gym/13.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/girl-woman-XBU0JECP7E",
+  "license": "CC0 / Public Domain"
+ },
+ "gym/14.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/girl-woman-373LUTBH99",
+  "license": "CC0 / Public Domain"
+ },
+ "gym/15.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/girl-kickboxing-GX902VI9MS",
+  "license": "CC0 / Public Domain"
+ },
+ "phone/1.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5939350/smashing-phone-with-hammer",
+  "license": "CC0 / Public Domain"
+ },
+ "phone/2.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/smartphone-mobile-IU6HNPC2NT",
+  "license": "CC0 / Public Domain"
+ },
+ "phone/3.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/smartphone-mobile-O4V3KXZI1T",
+  "license": "CC0 / Public Domain"
+ },
+ "phone/4.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/nexus-smartphone-D2ROMCUEIV",
+  "license": "CC0 / Public Domain"
+ },
+ "phone/5.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/iphone-smartphone-AQZQ7RGC7R",
+  "license": "CC0 / Public Domain"
+ },
+ "phone/6.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/smartphone-mobile-E5857ZL5AL",
+  "license": "CC0 / Public Domain"
+ },
+ "phone/7.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/nexus-smartphones-UAXILBRNUL",
+  "license": "CC0 / Public Domain"
+ },
+ "phone/8.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/6045410/free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "phone/9.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5947362/free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "phone/10.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5975792/the-platters",
+  "license": "CC0 / Public Domain"
+ },
+ "phone/11.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5944410/free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "phone/12.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5958467/free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "computer/1.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/6045410/free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "computer/2.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5947362/free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "computer/3.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5975792/the-platters",
+  "license": "CC0 / Public Domain"
+ },
+ "computer/4.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5940693/free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "computer/5.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/3261716/free-photo-image-maintenance-repair-electronics-engine-factory",
+  "license": "CC0 / Public Domain"
+ },
+ "computer/6.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5944410/free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "computer/7.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/macbook-laptop-UNB7V2H5L4",
+  "license": "CC0 / Public Domain"
+ },
+ "computer/8.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/macbook-laptop-LEJ7HJ5BEA",
+  "license": "CC0 / Public Domain"
+ },
+ "computer/9.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/macbook-laptop-CJSRRVR4JE",
+  "license": "CC0 / Public Domain"
+ },
+ "computer/10.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/macbook-laptop-VXFA58HGJ1",
+  "license": "CC0 / Public Domain"
+ },
+ "computer/11.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5902389/photo-image-public-domain-technology-computer",
+  "license": "CC0 / Public Domain"
+ },
+ "computer/12.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5965384/electronic-circuit-board-close-up",
+  "license": "CC0 / Public Domain"
+ },
+ "shop/1.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/8061068/photo-image-road-public-domain-families",
+  "license": "CC0 / Public Domain"
+ },
+ "shop/2.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/3094246/free-photo-image-america-carol-highsmith",
+  "license": "CC0 / Public Domain"
+ },
+ "shop/3.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/boutique-restaurant-606A0FA3B7",
+  "license": "CC0 / Public Domain"
+ },
+ "shop/4.jpg": {
+  "source": "stocksnap",
+  "page": "https://stocksnap.io/photo/people-girl-IA1A0DATOJ",
+  "license": "CC0 / Public Domain"
+ },
+ "shop/5.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/5962358/free-public-domain-cc0-photo",
+  "license": "CC0 / Public Domain"
+ },
+ "shop/6.jpg": {
+  "source": "rawpixel",
+  "page": "https://www.rawpixel.com/image/3284712/free-photo-image-mannequin-shop-fashion",
+  "license": "CC0 / Public Domain"
+ }
+}
